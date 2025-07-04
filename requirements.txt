@@ -1,9 +1,9 @@
+streamlit==1.35.0
 pandas
 scikit-learn
-tensorflow
-flask
-streamlit
 joblib
 matplotlib
 seaborn
-gdown
+numpy
+gdown==5.0.1
+
